@@ -1,0 +1,12 @@
+mods/data/burning-in-hell/burning-in-hell-easy.json
+mods/data/burning-in-hell/burning-in-hell-hard.json
+mods/data/burning-in-hell/burning-in-hell.json
+mods/data/burning-in-hell/mod.txt
+mods/IndieCross/characters/bf-sans-chara.json
+mods/IndieCross/characters/sans-phase-3.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/halldark.json
+mods/songs/burning-in-hell/Voices.ogg
+mods/songs/burning-in-hell/voices.ogg
+mods/songs/burning-in-hell/Inst.ogg
+mods/songs/burning-in-hell/inst.ogg

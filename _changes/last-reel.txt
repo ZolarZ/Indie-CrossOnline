@@ -1,0 +1,12 @@
+mods/data/last-reel/last-reel-easy.json
+mods/data/last-reel/last-reel-hard.json
+mods/data/last-reel/last-reel.json
+mods/data/last-reel/mod.txt
+mods/IndieCross/characters/bf-bendy-third.json
+mods/IndieCross/characters/bendy.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/bendy.json
+mods/songs/last-reel/Voices.ogg
+mods/songs/last-reel/voices.ogg
+mods/songs/last-reel/Inst.ogg
+mods/songs/last-reel/inst.ogg

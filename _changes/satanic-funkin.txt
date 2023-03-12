@@ -1,0 +1,12 @@
+mods/data/satanic-funkin/mod.txt
+mods/data/satanic-funkin/satanic-funkin-easy.json
+mods/data/satanic-funkin/satanic-funkin-hard.json
+mods/data/satanic-funkin/satanic-funkin.json
+mods/IndieCross/characters/bf-devil.json
+mods/IndieCross/characters/devil.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/devil.json
+mods/songs/satanic-funkin/Voices.ogg
+mods/songs/satanic-funkin/voices.ogg
+mods/songs/satanic-funkin/Inst.ogg
+mods/songs/satanic-funkin/inst.ogg

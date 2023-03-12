@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "im surprised you didnt try anything.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "i guess you learned something from last time...",
+			"boxState": "wink",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "lets finish this.",
+			"boxState": "noeyes",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+mods/data/ritual/mod.txt
+mods/data/ritual/ritual-easy.json
+mods/data/ritual/ritual-hard.json
+mods/data/ritual/ritual.json
+mods/IndieCross/characters/bf-sammy.json
+mods/IndieCross/characters/sammy.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/sammy.json
+mods/songs/ritual/Voices.ogg
+mods/songs/ritual/voices.ogg
+mods/songs/ritual/Inst.ogg
+mods/songs/ritual/inst.ogg

@@ -1,0 +1,10 @@
+mods/data/devils-gambit/devils-gambit-hard.json
+mods/data/devils-gambit/mod.txt
+mods/IndieCross/characters/bf-nightmare.json
+mods/IndieCross/characters/cuphead-nightmare.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/cuphead-nightmare.json
+mods/songs/devils-gambit/Voices.ogg
+mods/songs/devils-gambit/voices.ogg
+mods/songs/devils-gambit/Inst.ogg
+mods/songs/devils-gambit/inst.ogg

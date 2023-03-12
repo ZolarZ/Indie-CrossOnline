@@ -1,0 +1,10 @@
+mods/data/despair/despair-hard.json
+mods/data/despair/mod.txt
+mods/IndieCross/characters/bf-bendy-despair.json
+mods/IndieCross/characters/bendy-despair.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/bendy-despair.json
+mods/songs/despair/Voices.ogg
+mods/songs/despair/voices.ogg
+mods/songs/despair/Inst.ogg
+mods/songs/despair/inst.ogg

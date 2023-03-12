@@ -1,0 +1,12 @@
+mods/data/snake-eyes/mod.txt
+mods/data/snake-eyes/snake-eyes-easy.json
+mods/data/snake-eyes/snake-eyes-hard.json
+mods/data/snake-eyes/snake-eyes.json
+mods/IndieCross/characters/bf.json
+mods/IndieCross/characters/cuphead.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/cuphead.json
+mods/songs/snake-eyes/Voices.ogg
+mods/songs/snake-eyes/voices.ogg
+mods/songs/snake-eyes/Inst.ogg
+mods/songs/snake-eyes/inst.ogg

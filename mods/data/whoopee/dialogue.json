@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "welcome to the underground",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "how was your fall?",
+			"boxState": "funny",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "gay",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "you know, i was hired to tear you to shreds",
+			"boxState": "eyesclosed",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "and spread those ashes across 6 different suns",
+			"boxState": "noeyes",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "eyesclosed",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "after a few rounds of rap battling...",
+			"boxState": "wink",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "for some reason...",
+			"boxState": "funny",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ready yourself human.",
+			"boxState": "noeyes",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

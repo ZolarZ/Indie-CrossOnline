@@ -1,0 +1,9 @@
+mods/data/nightmare-run/mod.txt
+mods/data/nightmare-run/nightmare-run-easy.json
+mods/data/nightmare-run/nightmare-run-hard.json
+mods/data/nightmare-run/nightmare-run.json
+mods/IndieCross/stages/bendy-nightmare.json
+mods/songs/nightmare-run/Voices.ogg
+mods/songs/nightmare-run/voices.ogg
+mods/songs/nightmare-run/Inst.ogg
+mods/songs/nightmare-run/inst.ogg

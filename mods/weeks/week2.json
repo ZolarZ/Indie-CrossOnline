@@ -1,0 +1,59 @@
+{
+	"storyName": "VS Sans",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"whoopee",
+			"sans",
+			[
+				186,
+				0,
+				73
+			]
+		],
+		[
+			"sansational",
+			"sans",
+			[
+				186,
+				0,
+				73
+			]
+		],
+		[
+			"final-stretch",
+			"sans",
+			[
+				186,
+				0,
+				73
+			]
+		],
+		[
+			"burning-in-hell",
+			"sans",
+			[
+				186,
+				0,
+				73
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

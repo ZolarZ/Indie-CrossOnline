@@ -1,0 +1,9 @@
+mods/data/imminent-demise/imminent-demise-easy.json
+mods/data/imminent-demise/imminent-demise-hard.json
+mods/data/imminent-demise/imminent-demise.json
+mods/data/imminent-demise/mod.txt
+mods/IndieCross/stages/bendy-fake.json
+mods/songs/imminent-demise/Voices.ogg
+mods/songs/imminent-demise/voices.ogg
+mods/songs/imminent-demise/Inst.ogg
+mods/songs/imminent-demise/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/whoopee/mod.txt
+mods/data/whoopee/whoopee-easy.json
+mods/data/whoopee/whoopee-hard.json
+mods/data/whoopee/whoopee.json
+mods/IndieCross/characters/bf-sans.json
+mods/IndieCross/characters/sans.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/hall.json
+mods/songs/whoopee/Voices.ogg
+mods/songs/whoopee/voices.ogg
+mods/songs/whoopee/Inst.ogg
+mods/songs/whoopee/inst.ogg

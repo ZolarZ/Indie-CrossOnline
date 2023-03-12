@@ -1,0 +1,12 @@
+mods/data/freaky-machine/freaky-machine-easy.json
+mods/data/freaky-machine/freaky-machine-hard.json
+mods/data/freaky-machine/freaky-machine.json
+mods/data/freaky-machine/mod.txt
+mods/IndieCross/characters/bf-da.json
+mods/IndieCross/characters/bendy-da.json
+mods/IndieCross/characters/gf.json
+mods/IndieCross/stages/da.json
+mods/songs/freaky-machine/Voices.ogg
+mods/songs/freaky-machine/voices.ogg
+mods/songs/freaky-machine/Inst.ogg
+mods/songs/freaky-machine/inst.ogg

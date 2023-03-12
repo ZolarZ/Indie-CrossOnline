@@ -1,0 +1,9 @@
+mods/data/knockout/knockout-easy.json
+mods/data/knockout/knockout-hard.json
+mods/data/knockout/knockout.json
+mods/data/knockout/mod.txt
+mods/IndieCross/stages/cupheadrain.json
+mods/songs/knockout/Voices.ogg
+mods/songs/knockout/voices.ogg
+mods/songs/knockout/Inst.ogg
+mods/songs/knockout/inst.ogg

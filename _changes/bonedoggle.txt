@@ -1,0 +1,12 @@
+mods/data/bonedoggle/bonedoggle-easy.json
+mods/data/bonedoggle/bonedoggle-hard.json
+mods/data/bonedoggle/bonedoggle.json
+mods/data/bonedoggle/mod.txt
+mods/IndieCross/characters/bf-christmas.json
+mods/IndieCross/characters/papyrus.json
+mods/IndieCross/characters/sans-brrrrr.json
+mods/IndieCross/stages/bonedoggle.json
+mods/songs/bonedoggle/Voices.ogg
+mods/songs/bonedoggle/voices.ogg
+mods/songs/bonedoggle/Inst.ogg
+mods/songs/bonedoggle/inst.ogg
